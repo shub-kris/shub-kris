@@ -1,5 +1,10 @@
 
-<h1>Hi There, I'm Shubham Krishna <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<p align="center"><img src="https://github.com/shub-kris/shub-kris/blob/main/header.png" width="1380px" height="180px"></p>
+
+<h2>Hi 👋, I'm Shubham Krishna</h2>
+
+<!--Intro Section-->
+<img src="https://github.com/shub-kris/shub-kris/blob/main/intro.gif" width="30%" align="right">
 
 I'm a **Machine Learning Engineer** at [ML6](https://www.ml6.eu/). Building dataflow pipelines, developing Machine Learning models for various interesting problems, and scaling them to production are the things I usually do on a daily basis.
 
