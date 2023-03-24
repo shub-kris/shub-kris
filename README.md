@@ -8,7 +8,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shub-kris/shub-kris/blob/main/icons/cs.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Machine Learning Engineer at ML6.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shub-kris/shub-kris/blob/main/icons/ai.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Interested in solving problems using Machine Learning.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shub-kris/shub-kris/blob/main/icons/read,jpg" alt="C" width="20" height="20" />&nbsp;&nbsp;You can read more about me on my[(Website)](https://shub-kris.github.io/) <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shub-kris/shub-kris/blob/main/icons/read.jpg" alt="C" width="20" height="20" />&nbsp;&nbsp;You can read more about me on my [(Website)](https://shub-kris.github.io/) <br><br>
 
 
 ## Skill Set :muscle:
