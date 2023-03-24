@@ -9,8 +9,8 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Programming Languages**
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="C++" title="C++" width="40px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
-|--|--|--|
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="C++" title="C++" width="40px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">|
+|--|--|
 
 **Machine Learning Frameworks and Libraries**
 
@@ -40,3 +40,9 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <a href="https://www.linkedin.com/in/shubham-krishna-998922108/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://medium.com/@shubhamkrishna.ism"><img src="https://camo.githubusercontent.com/a583b5ce3b463c784cb87592b3da7b9b9d014d7a16adfff04b91cb1452ae4ca2/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d656469756d2e737667" width="40"></a>|<a href="https://twitter.com/KrishnaaShubham"><img src="https://raw.githubusercontent.com/johan/svg-cleanups/master/logos/twitter.svg" width="40"></a>
 |--|--|--|
+
+
+
+<!-- Profile Views -->
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=shub-kris&label=Profile%20views&color=0e75b6&style=flat" alt="shub-kris" height=21px/></p>
