@@ -6,7 +6,10 @@
 <!--Intro Section-->
 <img src="https://github.com/shub-kris/shub-kris/blob/main/intro.gif" width="30%" align="right">
 
-I'm a **Machine Learning Engineer** at [ML6](https://www.ml6.eu/). Building dataflow pipelines, developing Machine Learning models for various interesting problems, and scaling them to production are the things I usually do on a daily basis.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shub-kris/shub-kris/blob/main/icons/cs.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Machine Learning Engineer at ML6.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shub-kris/shub-kris/blob/main/icons/ai.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Interested in solving problems using Machine Learning.<br>
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/dj.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;When not coding, I like to make EDM :metal:<br> -->
+
 
 ## Skill Set :muscle:
 
