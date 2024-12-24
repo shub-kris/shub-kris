@@ -44,6 +44,10 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <br> -->
 
+## Some Stats :bar_chart:
+
+<img src="https://github-readme-stats.vercel.app/api?username=shub-kris&show_icons=true&theme=tokyonight&include_all_commits=true">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shub-kris&size_weight=0.5&count_weight=0.5)
 ## Let's Connect :handshake:
 
 <a href="https://www.linkedin.com/in/shubham-krishna-998922108/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://medium.com/@shubhamkrishna.ism"><img src="https://github.com/Medium/medium-logos/blob/master/01_Logo/01_Black/SVG/Medium-Logo-Black-RGB.svg" width="40"></a>|<a href="https://twitter.com/KrishnaaShubham"><img src="https://raw.githubusercontent.com/johan/svg-cleanups/master/logos/twitter.svg" width="40"></a>
