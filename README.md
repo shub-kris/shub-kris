@@ -6,48 +6,70 @@
 <!--Intro Section-->
 <img src="https://github.com/shub-kris/shub-kris/blob/main/intro.gif" width="30%" align="right">
 
-**AI/ML Engineer at [Zendesk](https://www.zendesk.com/)**  
+🎓 **AI/ML Engineer at [Zendesk](https://www.zendesk.com/)**  
 at [Zendesk](https://www.zendesk.com/).<br>
 💡 Passionate about **developing and deploying intelligent systems** that transform ideas into impactful solutions.<br>
-📖 Know more about me on [Website](https://shub-kris.github.io/) <br><br>
-
+📖 Currently exploring **Large Language Models** and their application in **enhancing customer experience and automating support workflows**.<br>
+🌟 Read more about my work on [Website](https://shub-kris.github.io/) <br><br>
 
 ## Skill Set :muscle:
 
-These are some of the major technologies that I use or have worked on in the past:
+Here’s a snapshot of the major technologies I’ve worked with in the past:
 
-**Programming Languages**
+<!-- **Programming Languages**
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="C++" title="C++" width="40px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">|
-|--|--|
+- Python
+- C++
+- Bash
 
-**Machine Learning Frameworks and Libraries**
+**Machine Learning Frameworks**
 
-<img title="PyTorch" alt="PyTorch" width="40px" src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.svg">|<img title="TensorFlow" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png">|<img title="Keras" alt="Keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png">|<img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png">|<img title="Pandas" alt="Pandas" width="40px" src="https://github.com/pandas-dev/pandas/blob/main/web/pandas/static/img/pandas.svg">
-|--|--|--|--|--|
-<img title="NumPy" alt="NumPy" width="40px" src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg">|<img title="matplotlib" alt="matplotlib" width="40px" src="https://github.com/matplotlib/matplotlib/blob/main/lib/matplotlib/mpl-data/images/matplotlib.svg">|<img title="seaborn" alt="seaborn" width="40px" src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg">|<img title="Hugging Face" alt="Hugging Face" width="40px" src="https://huggingface.co/front/assets/huggingface_logo.svg">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
+- PyTorch
+- TensorFlow, Keras
+- HuggingFace Transformers, Diffusers and Gradio
+- LangChain
 
-**Cloud**
+**Data Analysis and Visualization Libraries**
 
-<img title="GCP" alt="GCP" width="40px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/cloud/gcloud.svg">|
-|--|
+- Scikit-Learn, Pandas and NumPy
+- Matplotlib and Seaborn
+- Weights and Biases
 
+**Cloud Platforms**
 
-**Tools**
+- Google Cloud Platform (GCP)
+- Microsoft Azure
 
-<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
-|--|--|--|--|
+**Deployment and DevOps Tools**
+
+- Docker
+- GitHub Actions
+- Terraform
+- FastAPI
+- Grafana
+
+**Development Tools**
+
+- Git
+- Ubuntu
+- Jupyter Notebook
+- Visual Studio Code -->
+
+| **Category**                 |  **Technologies**                                                                 |
+|------------------------------|---------------------------------------------------------------------------------|
+| **Programming Languages**     | Python, C++, Bash                                                                |
+| **Machine Learning Frameworks**| PyTorch, TensorFlow, Keras, Hugging Face (Transformers, Diffusers, Gradio), LangChain |
+| **Data Analysis & Visualization Libraries** | Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, Weights & Biases              |
+| **Cloud Platforms**           | Google Cloud Platform (GCP), Microsoft Azure                                     |
+| **Deployment & DevOps Tools** | Docker, GitHub Actions, Terraform, FastAPI, Grafana                             |
+| **Development Tools**         | Git, Ubuntu, Jupyter Notebook, Visual Studio Code                               |
+
 <br>
 
-<!-- ## Some of my stats :bar_chart:
 
-<img src="https://github-readme-stats.vercel.app/api?username=shub-kris&show_icons=true&theme=radical&include_all_commits=true">
+<!-- ## Some Stats :bar_chart:
 
-<br> -->
-
-## Some Stats :bar_chart:
-
-<img src="https://github-readme-stats.vercel.app/api?username=shub-kris&show_icons=true&theme=tokyonight&include_all_commits=true">
+<img src="https://github-readme-stats.vercel.app/api?username=shub-kris&show_icons=true&theme=tokyonight&include_all_commits=true"> -->
 
 <!---[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shub-kris&size_weight=0.5&count_weight=0.5)!-->
 
