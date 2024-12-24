@@ -48,7 +48,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <img src="https://github-readme-stats.vercel.app/api?username=shub-kris&show_icons=true&theme=tokyonight&include_all_commits=true">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shub-kris&size_weight=0.5&count_weight=0.5)
+<!---[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shub-kris&size_weight=0.5&count_weight=0.5)!-->
 
 ## Let's Connect :handshake:
 
