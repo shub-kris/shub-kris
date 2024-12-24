@@ -6,8 +6,7 @@
 <!--Intro Section-->
 <img src="https://github.com/shub-kris/shub-kris/blob/main/intro.gif" width="30%" align="right">
 
-🎓 **AI/ML Engineer at [Zendesk](https://www.zendesk.com/)**  
-at [Zendesk](https://www.zendesk.com/).<br>
+🎓 **AI/ML Engineer at [Zendesk](https://www.zendesk.com/)**.<br>
 💡 Passionate about **developing and deploying intelligent systems** that transform ideas into impactful solutions.<br>
 📖 Currently exploring **Large Language Models** and their application in **enhancing customer experience and automating support workflows**.<br>
 🌟 Read more about my work on [Website](https://shub-kris.github.io/) <br><br>
